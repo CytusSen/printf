@@ -2,7 +2,9 @@
 int main()
 
 {
-	printf("Hello World\n");
-
+	printf(" O_\n ");
+	printf(" /H \n");
+	printf(" / \ ");
+     
 	return 0;
 }
