@@ -1,5 +1,5 @@
 #printf 
-Als mein Compiler werde ich clang-12 benutzen und als Editor wähle ich vim
+Als mein Compiler werde ich gcc benutzen und als Editor wähle ich vim
 
-clang-12: Ubuntu clang version 12.0.0-3ubuntu1~20.04.5.
+gcc: gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1).
 vim: version 8.1.3741 
